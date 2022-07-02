@@ -1,0 +1,6 @@
+## For development on JetBrains machines, where .idea is not globally ignored
+.idea
+
+# Gradle-generated files
+.gradle
+build
